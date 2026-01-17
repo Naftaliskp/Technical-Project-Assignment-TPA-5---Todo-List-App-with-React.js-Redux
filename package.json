@@ -19,6 +19,7 @@
     "redux": "^4.0.5",
     "web-vitals": "^1.1.1"
   },
+  "devDependencies": {},
   "scripts": {
     "start": "react-scripts start",
     "build": "NODE_OPTIONS=--openssl-legacy-provider CI=false react-scripts build",
@@ -42,8 +43,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "overrides": {
-    "postcss": "^8.4.31"
   }
 }
